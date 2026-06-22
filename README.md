@@ -1,13 +1,13 @@
-# Commonfield25 — Full-Stack Dev & Designer | Python · C# · Web
+# Commonfields25 — Full-Stack Dev & Designer | Python · C# · Web
 
 <!-- Meta SEO Keywords -->
 <!-- Keywords: developer, designer, 3D printing, Python, C#, JavaScript, open source, portfolio, synthwave, retro-futuristic -->
 
-🌆⚡🔮 COMMONFIELD25 — GITHUB PROFILE 🔮⚡🌆
+🌆⚡🔮 COMMONFIELDS25 — GITHUB PROFILE 🔮⚡🌆
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=2000&pause=1000&color=FF00FF&background=0D0D1A&lines=COMMONFIELD25+%E2%80%A2+DEV+%E2%80%A2+DESIGNER+%E2%80%A2+24" alt="Commonfield25 - Developer Designer 24">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&duration=2000&pause=1000&color=FF00FF&background=0D0D1A&lines=COMMONFIELDS25+%E2%80%A2+DEV+%E2%80%A2+DESIGNER+%E2%80%A2+24" alt="Commonfields25 - Developer Designer 24">
 </p>
 
 <div align="center">
@@ -31,9 +31,9 @@
 
 ## 🔮 About Me / À Propos
 
-> **FR:** Je conçois, je développe, j'imprime en 3D. Pas de titre ronflant — juste du concret. Je m'appelle **Commonfield25**. Tech lover. 24 ans. Autodidacte.
+> **FR:** Je conçois, je développe, j'imprime en 3D. Pas de titre ronflant — juste du concret. Je m'appelle **Commonfields25**. Tech lover. 24 ans. Autodidacte.
 >
-> **EN:** I build, I develop, I 3D print. No fluff — just results. Call me **Commonfield25**. Tech lover. Age 24. Self-taught.
+> **EN:** I build, I develop, I 3D print. No fluff — just results. Call me **Commonfields25**. Tech lover. Age 24. Self-taught.
 
 | Key | Value |
 |-----|-------|
@@ -75,7 +75,7 @@
 
 ---
 
-## 💾 Services — Commonfield25
+## 💾 Services — Commonfields25
 
 ### 🖥️ Development
 - Python scripting & automation
@@ -104,17 +104,17 @@
 | 2 | 🧪 Personal | Personal Project Beta | ✅ Live | Private |
 | 3 | 📋 Client | Client Project Alpha | 🔒 Confidential | Private |
 | 4 | 📋 Client | Client Project Beta | 🔒 Confidential | Private |
-| 5 | ✅ Open Source | Open Source Alpha | 🔗 Public | [View](https://github.com/Commonfield25) |
-| 6 | ✅ Open Source | Open Source Beta | 🔗 Public | [View](https://github.com/Commonfield25) |
+| 5 | ✅ Open Source | Open Source Alpha | 🔗 Public | [View](https://github.com/Commonfields25) |
+| 6 | ✅ Open Source | Open Source Beta | 🔗 Public | [View](https://github.com/Commonfields25) |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Commonfield25&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=FF00FF&text_color=00FFFF">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commonfield25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=FF00FF&text_color=00FFFF">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Commonfield25&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Commonfields25&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=FF00FF&text_color=00FFFF">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commonfields25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=FF00FF&text_color=00FFFF">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Commonfields25&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF">
 </p>
 
 ---
@@ -133,7 +133,7 @@
 
 | Channel | Handle |
 |---------|--------|
-| 🐙 **GitHub** | [@Commonfield25](https://github.com/Commonfield25) |
+| 🐙 **GitHub** | [@Commonfields25](https://github.com/Commonfields25) |
 | 📧 **Email** | [contact@commonfield25.xyz](mailto:contact@commonfield25.xyz) |
 
 > 🔒 **Collaboration Policy:** Reach out via GitHub Issues or email for inquiries, collaborations, and project discussions.
@@ -144,7 +144,7 @@
 
 ```
 ═══════════════════════════════════════════════════════════
-⚡  COMMONFIELD25  ·  24 · DEV + DESIGNER + 3D MAKER  ⚡
+⚡  COMMONFIELDS25  ·  24 · DEV + DESIGNER + 3D MAKER  ⚡
       Build. Break. Rebuild. Ship.
 ═══════════════════════════════════════════════════════════
 ```
@@ -152,7 +152,7 @@
 ```
       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-           💾  MADE WITH CODE  ·  ⚡ COMMONFIELD25
+           💾  MADE WITH CODE  ·  ⚡ COMMONFIELDS25
       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
